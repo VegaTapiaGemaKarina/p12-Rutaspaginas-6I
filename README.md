@@ -21,10 +21,15 @@ samples, guidance on mobile development, and a full API reference.
  ## Ejemplo Rutas Paginas - Flutter Online IDE
  -Links de referencia
  -https://docs.flutter.dev/cookbook/navigation/navigation-basics
+ -https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
  -Gema Vega: a.21308051280400@cbtis128.edu.mx
 
 ## Resultado de aplicacion en flutter
 -![image](https://github.com/VegaTapiaGemaKarina/p12-Rutaspaginas-6I/assets/144732543/c9301d90-ae1e-4701-b7da-8f14289b355a)
 -![image](https://github.com/VegaTapiaGemaKarina/p12-Rutaspaginas-6I/assets/144732543/dcdc6267-2ab6-4252-9537-babc79b794ad)
+-![image](https://github.com/VegaTapiaGemaKarina/p12-Rutaspaginas-6I/assets/144732543/31009caa-26f4-4774-bd08-65865eeca92f)
+-![image](https://github.com/VegaTapiaGemaKarina/p12-Rutaspaginas-6I/assets/144732543/b7f82bd8-4b26-431b-992b-f6a7f1086d58)
+
+
 
 
